@@ -1,0 +1,25 @@
+.main-container{
+    border:1.5px solid black;
+    height:220px;
+    width:200px;
+    margin:25px;
+    background-image: linear-gradient(blue,skyblue);
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px 2px rgb(104, 99, 99);
+}
+
+.img-smart-watch{
+    height: 120px;
+    background: transparent;
+    display: block;
+    margin: auto;
+}
+.heading{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.prize{
+    font-size: 20px;
+    text-align: center;
+}
